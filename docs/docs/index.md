@@ -2,3 +2,4 @@
 
 Bienvenue sur le projet.  
 - [Écosystème statistique](./ecoStat.md)
+- [Acteurs du territoire](../acteurs.md)
