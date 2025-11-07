@@ -39,7 +39,28 @@ Ce document présente les principaux acteurs impliqués dans l’accès aux soin
 Le schéma ci-dessous illustre la chaîne d’acteurs autour du jeune, depuis le repérage jusqu’à la prise en charge et le soutien :
 
 ```mermaid
-graph TD
+classDiagram
+    Animal <|-- Duck
+    Animal <|-- Fish
+    Animal <|-- Zebra
+    Animal : +int age
+    Animal : +String gender
+    Animal: +isMammal()
+    Animal: +mate()
+    class Duck{
+      +String beakColor
+      +swim()
+      +quack()
+    }
+    class Fish{
+      -int sizeInFeet
+      -canEat()
+    }
+    class Zebra{
+      +bool is_wild
+      +run()
+    }
+```
     A[Jeunes 11–25 ans] --> B[Psychologues / Psychiatres]
     A --> C[Établissements scolaires]
     A --> D[CMP / MDA]
