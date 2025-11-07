@@ -1,43 +1,43 @@
 # Acteurs du territoire – Accès aux soins psychologiques 93
 
-##  Objectif
-Identifier les principaux acteurs impliqués dans l'accès aux soins psychologiques pour les jeunes (11–25 ans) en Seine-Saint-Denis (93).
+## 🎯 Objectif
+Ce document présente les principaux acteurs impliqués dans l’accès aux soins psychologiques pour les jeunes de **11 à 25 ans** en **Seine-Saint-Denis (93)**, ainsi que leurs **rôles** et **relations** dans le dispositif territorial.
 
 ---
 
-##  Acteurs clés
+## 🧩 1. Les acteurs du système
 
-### 1. Institutions publiques
-- **ARS Île-de-France** : coordination régionale de la santé mentale.  
-- **Conseil départemental du 93** : politiques sociales et soutien aux structures médico-sociales.  
-- **Éducation nationale** : repérage et accompagnement dans les établissements scolaires.  
-- **Communes / collectivités locales** : soutien aux dispositifs de proximité (centres, associations).
-
----
-
-### 2. Structures de soins
-- **Psychologues et psychiatres libéraux**  
-- **Centres Médico-Psychologiques (CMP)**  
-- **Maisons des adolescents (MDA)**  
-- **Hôpitaux publics et services de pédopsychiatrie**
+| **Acteur** | **Catégorie** | **Rôle principal** |
+|-------------|----------------|--------------------|
+| **Jeunes (11–25 ans)** | Public cible | Personnes concernées par les troubles psychologiques ; bénéficient d’un accompagnement et d’un suivi. |
+| **Psychologues / Psychiatres** | Professionnels de santé | Assurent le diagnostic, le suivi thérapeutique et la coordination des soins psychologiques. |
+| **Établissements scolaires** | Institutions éducatives | Repèrent les jeunes en difficulté, orientent vers les structures spécialisées, sensibilisent à la santé mentale. |
+| **CMP / MDA** | Structures médico-sociales | Offrent un accompagnement psychologique gratuit, assurent la prise en charge des jeunes et de leurs familles. |
+| **ARS Île-de-France** | Institution publique régionale | Coordonne et finance les dispositifs de santé mentale, planifie l’offre de soins et les politiques publiques. |
+| **Collectivités locales (communes, département)** | Institutions territoriales | Soutiennent les structures locales, financent les programmes de prévention et d’accompagnement des jeunes. |
+| **Hôpitaux / Dispositifs Psy (ex. Santé Psy Étudiant, Mon Soutien Psy)** | Structures de santé publique | Accueillent les jeunes en situation de crise ou nécessitant un suivi médical renforcé. |
+| **Associations locales** | Acteurs associatifs et de terrain | Proposent écoute, prévention, accompagnement et actions sociales de proximité. |
 
 ---
 
-### 3. Dispositifs spécifiques
-- **Mon Soutien Psy**  
-- **Santé Psy Étudiant**  
-- **Maisons de santé pluridisciplinaires**
+## 🔁 2. Les relations entre acteurs
+
+| **Lien entre acteurs** | **Type de relation** | **Exemple concret** |
+|--------------------------|----------------------|----------------------|
+| **Jeune ↔ Établissement scolaire** | Repérage / orientation | L’école identifie un élève en souffrance et le dirige vers un CMP. |
+| **Jeune ↔ Psychologues / Psychiatres** | Prise en charge directe | Le jeune consulte un professionnel pour un suivi thérapeutique. |
+| **Jeune ↔ Associations locales** | Accompagnement social | Participation à des ateliers d’écoute ou de soutien. |
+| **Psychologues / Psychiatres ↔ ARS Île-de-France** | Régulation / financement | L’ARS finance les consultations du dispositif Santé Psy Étudiant. |
+| **Établissements scolaires ↔ Collectivités locales** | Coopération locale | Mise en place de programmes de prévention santé à l’école. |
+| **CMP / MDA ↔ Hôpitaux / Dispositifs Psy** | Coordination des soins | Orientation des cas complexes vers l’hôpital. |
+| **Collectivités locales ↔ Associations locales** | Soutien financier et logistique | Subventions municipales aux structures d’aide psychologique. |
 
 ---
 
-### 4. Acteurs associatifs et de terrain
-- **Associations locales** (prévention, accompagnement, écoute)  
-- **Mission Locale / Pôle emploi jeunes**  
-- **Structures jeunesse** (maisons de quartier, clubs, etc.)
+## 🧭 3. Lecture du schéma simplifié
 
----
+Le schéma ci-dessous illustre la chaîne d’acteurs autour du jeune, depuis le repérage jusqu’à la prise en charge et le soutien :
 
-##  Schéma simplifié des relations
 ```mermaid
 graph TD
     A[Jeunes 11–25 ans] --> B[Psychologues / Psychiatres]
